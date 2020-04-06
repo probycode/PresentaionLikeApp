@@ -1,0 +1,20 @@
+﻿Presentation App
+
+
+winexe
+C#
+.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\
+Presentation_App
+none
+false
+DEBUG;TRACE
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\App.xaml
+2773261467
+
+792002919010
+16864829966
+Controls\ChoiceDisplays\ChoiceDisplayControl.xaml;Controls\ChoiceEditors\ChoiceEditorControl.xaml;Controls\CurrentSlideIndicatorControl.xaml;Controls\InspectorControls\LabelInspectorContol.xaml;Controls\SlideButtonControl.xaml;Pages\PresnetationEditorPages\PresentationSoundsPage.xaml;Pages\PresnetationEditorPages\PresentationStylesPage.xaml;Pages\PresnetationEditorPages\PresentationPropertiesPage.xaml;Pages\SlideDisplays\DummyDisplay.xaml;Pages\SlideDisplays\EndSlideDisplayPage.xaml;Pages\SlideDisplays\FullImageSlideDisplayPage.xaml;Pages\SlideDisplays\InformationSlideDisplayPage.xaml;Pages\SlideDisplays\IntroSlideDisplayPage.xaml;Pages\SlideDisplays\QuestionSlideDisplayPage.xaml;Pages\SlideEditors\DummyEditor.xaml;Pages\SlideEditors\EndSlideEditorPage.xaml;Pages\SlideEditors\FullImageSlideEditorPage.xaml;Pages\SlideEditors\InformationSlideEditorPage.xaml;Pages\SlideEditors\IntroSlideEditorPage.xaml;Windows\ApplicationMain\PresentationEditorMain.xaml;Windows\ApplicationMain\PresentationViewerMain.xaml;Windows\CreatePresentationWindow.xaml;Windows\DashboardWindow.xaml;Windows\PresentationEditor.xaml;Pages\SlideEditors\QuestionEditorPage.xaml;Windows\PresentationSettingsWindow.xaml;Windows\SlideShowForm.xaml;
+
+False
+

@@ -1,0 +1,154 @@
+﻿<Window x:Class="Presentation_App.CreatePresentationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation_App"
+        mc:Ignorable="d"
+        Title="CreatePresentationWindow"  Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Presentation Settings Form-->
+        <StackPanel Margin="40 40 40 40" Background="White">
+            <StackPanel.Effect>
+                <DropShadowEffect Color="#FFCFCFCF" BlurRadius="10" ShadowDepth="1"/>
+            </StackPanel.Effect>
+
+            <!-- Form Title -->
+            <TextBlock FontSize="24" FontWeight="Bold" Text="Presentation Settings: " Margin="0 5 5 5" HorizontalAlignment="Center" />
+
+            <StackPanel Orientation="Vertical" Margin="10">
+                <!-- Presentation Name -->
+                <StackPanel Grid.Column="0" Margin="10 5">
+                    <TextBlock FontSize="14" Text="Presentation Name: " Margin="0 5 5 5" HorizontalAlignment="Center" TextBlock.FontWeight="Bold"/>
+                    <TextBox x:Name="PresentationNameTextBox" FontSize="16" Text="New Presentation" Padding="5" HorizontalAlignment="Center" TextChanged="PresentationNameTextBox_TextChanged" Width="300"/>
+                </StackPanel>
+
+                <!-- Amount of Questions Per Slide -->
+                <StackPanel Grid.Column="0">
+                    <TextBlock FontSize="14" Text="Questions Per Slide: " Margin="0 5 5 5" HorizontalAlignment="Center" TextBlock.FontWeight="Bold"/>
+                    <ComboBox x:Name="QuestionPerSlideComboBox" Width="300" FontSize="16"  HorizontalAlignment="Center" SelectionChanged="QuestionPerSlideComboBox_SelectionChanged">
+                        <ComboBoxItem IsSelected="True">Two</ComboBoxItem>
+                        <ComboBoxItem>Three</ComboBoxItem>
+                        <ComboBoxItem>Four</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+            </StackPanel>
+
+            <!-- Color Pickers -->
+            <Grid Margin="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" FontFamily="{StaticResource FontAwesome}" FontSize="30" Text="&#xf1fc;" Margin="0 5 5 5" HorizontalAlignment="Center"/>
+
+                <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <!-- Title Color -->
+                    <StackPanel Grid.Column="0" Margin="10 0">
+                        <TextBlock FontSize="14" Text="Tilte Color" Margin="0 5 5 5" HorizontalAlignment="Center"/>
+                        <Button x:Name="TitleColorPickerButton" FontSize="16" Content="Pick"
+                                    Padding="5" MinWidth="100" HorizontalAlignment="Center" TextBlock.FontWeight="Bold"
+                                    Click="TilteColorPickerButton_Click"/>
+                    </StackPanel>
+
+                    <!-- Text Color -->
+                    <StackPanel Grid.Column="0" Margin="10 0">
+                        <TextBlock FontSize="14" Text="Text Color" Margin="0 5 5 5" HorizontalAlignment="Center"/>
+                        <Button x:Name="TextColorPickerButton" FontSize="16" Content="Pick"
+                                    Padding="5" MinWidth="100" HorizontalAlignment="Center" TextBlock.FontWeight="Bold"
+                                    Click="TextColorPickerButton_Click"/>
+                    </StackPanel>
+
+                    <!-- Background Color -->
+                    <StackPanel Grid.Column="0" Margin="10 0">
+                        <TextBlock FontSize="14" Text="Background Color" TextAlignment="Center" Margin="0 5 5 5" HorizontalAlignment="Center"/>
+                        <Button x:Name="BackgroundColorPickerButton" FontSize="16" Content="Pick"
+                                    Padding="5" MinWidth="100" HorizontalAlignment="Center" TextBlock.FontWeight="Bold"
+                                    Click="BackgroundColorPickerButton_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <!-- SFX Pickers -->
+            <Grid Margin="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" FontFamily="{StaticResource FontAwesome}" FontSize="30" Text="&#xf001;" Margin="0 10 0 0" HorizontalAlignment="Center"/>
+
+                <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <!-- Title Color -->
+                    <StackPanel Grid.Column="0" Margin="10 0">
+                        <TextBlock FontSize="14" Text="Music" Margin="0 5 5 5" HorizontalAlignment="Center"/>
+                        <Button FontSize="16" Content="Pick" x:Name="MusicPickerButton"
+                                    Padding="5" MinWidth="100" HorizontalAlignment="Center" TextBlock.FontWeight="Bold"
+                                    Click="MusicPickerButton_Click"/>
+                    </StackPanel>
+
+                    <!-- Text Color -->
+                    <StackPanel Grid.Column="0" Margin="10 0">
+                        <TextBlock FontSize="14" Text="Correct SFX" Margin="0 5 5 5" HorizontalAlignment="Center"/>
+                        <Button FontSize="16" Content="Pick" x:Name="CorrectSFXPickerButton"
+                                    Padding="5" MinWidth="100" HorizontalAlignment="Center" TextBlock.FontWeight="Bold"
+                                    Click="CorrectSFXPickerButton_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <!-- Form Bottom Bar -->
+            <Grid Margin="5 30 5 5" VerticalAlignment="Bottom" HorizontalAlignment="Stretch">
+
+                <!-- Start Button -->
+                <Button x:Name="StartButton" Background="#FF008700" Width="120" Height="40"
+                    TextBlock.FontSize="20" Content="Create" TextBlock.TextAlignment="Center"
+                    TextBlock.FontWeight="Black" Foreground="White" Margin="20 0"
+                    HorizontalAlignment="Right" Click="StartButton_Click"
+                    >
+                    <Button.Effect>
+                        <DropShadowEffect ShadowDepth="2"/>
+                    </Button.Effect>
+                </Button>
+
+                <!-- Cancel Button -->
+                <Button x:Name="CancelButton" Background="#FF008700" Width="120" Height="40"
+                    TextBlock.FontSize="20" Content="Cancel" TextBlock.FontWeight="Black"
+                    Foreground="White" Margin="20 0" HorizontalAlignment="Left"
+                    Click="CancelButton_Click"
+                    >
+                    <Button.Effect>
+                        <DropShadowEffect ShadowDepth="2"/>
+                    </Button.Effect>
+                </Button>
+
+            </Grid>
+
+        </StackPanel>
+        
+        <!-- Presentation Preview -->
+        <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <!-- Header -->
+            <TextBlock FontSize="50" Text="Example Preview" Margin="0 20 5 20" HorizontalAlignment="Center"/>
+
+            <Border x:Name="PreivewBackgroundColor" 
+                Background="AntiqueWhite" Width="350" Height="300"
+                BorderThickness="1" BorderBrush="Black"
+            >
+                <StackPanel>
+                    <TextBlock x:Name="PreivewTitleColor" FontSize="30" Text="Title Text Color " Margin="0 5 5 5" HorizontalAlignment="Center"/>
+                    <TextBlock x:Name="PreivewTextColor" FontSize="20" Text="Plain Text Color " Margin="0 20 5 5" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+
+    </Grid>
+</Window>

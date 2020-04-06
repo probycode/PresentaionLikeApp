@@ -1,0 +1,219 @@
+﻿<Window x:Class="Presentation_App.PresentationEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation_App"
+        mc:Ignorable="d"
+        Title="Presentation Editor" MinHeight="400" MinWidth="800" Height="650" Width="1200" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Top Bar -->
+        <Border Grid.Row="0" Background="WhiteSmoke" Panel.ZIndex="2">
+            <Border.Effect>
+                <DropShadowEffect ShadowDepth="0.5"/>
+            </Border.Effect>
+
+            <Grid>
+                <StackPanel Orientation="Horizontal">
+
+                    <!-- Menu Button-->
+                    <Button 
+                        FontFamily="{StaticResource FontAwesome}"
+                        Background="Transparent" x:Name="PresentationSettingsButton"
+                        BorderThickness="0" Click="PresentationSettingsButton_Click"
+                        Width="65"
+                        Margin="5 0">
+
+                        <Viewbox>
+                            <TextBlock x:Name="PresentationSettingButton" FontSize="45" Padding="8" Text="&#xf0c9;"></TextBlock>
+                        </Viewbox>
+
+                    </Button>
+
+                    <!-- Save Button-->
+                    <Button 
+                        FontFamily="{StaticResource FontAwesome}"
+                        Background="Transparent"
+                        BorderThickness="0"
+                        Width="65"
+                        Margin="5 0">
+
+                        <Viewbox>
+                            <TextBlock x:Name="SaveButton" PreviewMouseDown="SaveButton_PreviewMouseDown" FontSize="45" Padding="8" Text="&#xf0c7;"></TextBlock>
+                        </Viewbox>
+                    </Button>
+
+                    <!-- Preview Button-->
+                    <Button 
+                        FontFamily="{StaticResource FontAwesome}"
+                        BorderThickness="0"
+                        Width="65"
+                        Background="Transparent"
+                        Margin="5 0">
+
+                        <Viewbox>
+                            <TextBlock x:Name="PreviewButton" PreviewMouseDown="PreviewButton_PreviewMouseDown" FontSize="45" Padding="8" Text="&#xf070;"></TextBlock>
+                        </Viewbox>
+
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+        </Border>
+
+        <!-- Main Content -->
+        <Border Grid.Row="1" Background="White">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1.5*"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="1.35*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="25"/>
+                </Grid.RowDefinitions>
+
+                <GridSplitter Grid.Row="0" Grid.Column="0" Background="WhiteSmoke" HorizontalAlignment="Right" Width="5"/>
+                
+                <!-- Right Side Bar Slides -->
+                <Border Grid.Column="0" Background="WhiteSmoke" Panel.ZIndex="1" Margin="0,0,5,0">
+                    <Border.Effect>
+                        <DropShadowEffect ShadowDepth="0.5"/>
+                    </Border.Effect>
+
+                    <!-- Side Bar-->
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="120"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="60"/>
+                        </Grid.RowDefinitions>
+
+                        <!-- Side Bar Header -->
+                        <StackPanel Grid.Row="0" VerticalAlignment="Top">
+
+                            <!-- Slide Picker Combo Box -->
+                            <ComboBox x:Name="SlidePickerComboBox" Margin="20 20 20 0" Height="30" TextBlock.TextAlignment="Center" FontSize="14" FontWeight="Bold">
+
+                            </ComboBox>
+
+                            <!-- Add Slide Button-->
+                            <Button x:Name="AddSlideButton" Content="&#xf067;  Add Slide" Height="35" Margin="20, 10 20 0" Foreground="White" 
+                                    FontWeight="Bold" FontSize="20" BorderThickness="0"
+                                    Click="AddSlideButton_Click" FontFamily="{StaticResource FontAwesome}">
+                                <Button.Background>
+                                    <SolidColorBrush Color="{DynamicResource MainGreenColor}"/>
+                                </Button.Background>
+                            </Button>
+
+                        </StackPanel>
+
+                        <!-- Side Bar Content-->
+                        <Border BorderThickness="1" BorderBrush="#FF9E9E9E" Grid.Row="1">
+                            <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Hidden" >
+                                <ListBox x:Name="SlideButtonsListBox">
+                                    <ListBox.ItemsPanel>
+                                        <ItemsPanelTemplate>
+                                            <WrapPanel Margin="10" Orientation="Vertical">
+
+                                            </WrapPanel>
+                                        </ItemsPanelTemplate>
+                                    </ListBox.ItemsPanel>
+                                </ListBox>
+                            </ScrollViewer>
+                        </Border>
+
+                        <!-- Side Bar Controls-->
+                        <Grid Grid.Row="2" VerticalAlignment="Stretch"
+                                    HorizontalAlignment="Stretch" Margin="10 10">
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <!-- Move Slide Up -->
+                            <Button Content="&#xf062;" FontFamily="{StaticResource FontAwesome}" VerticalAlignment="Stretch"
+                                    HorizontalAlignment="Stretch" Margin="10 0" FontSize="24" BorderThickness="0"
+                                    Grid.Column="0" x:Name="MoveSlideUpButton" Click="MoveSlideUpButton_Click">
+                            </Button>
+
+                            <!-- Remove Slide Button -->
+                            <Button Content="&#xf1f8;" FontFamily="{StaticResource FontAwesome}" VerticalAlignment="Stretch"
+                                    HorizontalAlignment="Stretch" Margin="10 0" FontSize="24" BorderThickness="0"
+                                    Grid.Column="1" Background="#FFFF9C9C" x:Name="RemoveSlideButton" Click="RemoveSlideButton_Click">
+                            </Button>
+
+                            <!-- Move Slide Down -->
+                            <Button Content="&#xf063;" FontFamily="{StaticResource FontAwesome}" VerticalAlignment="Stretch"
+                                    HorizontalAlignment="Stretch" Margin="10 0" FontSize="24" BorderThickness="0"
+                                    Grid.Column="2" x:Name="MoveSlideDownButton" Click="MoveSlideDownButton_Click">
+                            </Button>
+
+                        </Grid>
+
+                    </Grid>
+
+                </Border>
+
+                
+                <GridSplitter Grid.Row="0" Grid.Column="2" Background="WhiteSmoke" HorizontalAlignment="Left" Width="5"/>
+
+                <!-- Left Side Bar Inspector-->
+                <Border Grid.Column="2" Background="WhiteSmoke" Panel.ZIndex="1" Margin="5,0,0,0">
+                    <Border.Effect>
+                        <DropShadowEffect ShadowDepth="0.5"/>
+                    </Border.Effect>
+
+                    <!-- Side Bar-->
+                    <StackPanel>
+                        <TextBlock Text="Inspector" FontWeight="Bold" FontSize="28" HorizontalAlignment="Center" 
+                                   VerticalAlignment="Top" Margin="0,10,0,20"/>
+                        <Frame x:Name="InspectorPanelContent" NavigationUIVisibility="Hidden"/>
+                    </StackPanel>
+
+                </Border>
+
+                <!-- Page Content -->
+                <Border Grid.Column="1" Panel.ZIndex="0">
+                    <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+                </Border>
+
+                <!-- Bottom Bar -->
+                <Grid Grid.Row="3" Background="WhiteSmoke" Grid.ColumnSpan="3" Panel.ZIndex="2">
+                    <Grid.Effect>
+                        <DropShadowEffect ShadowDepth="0.5"/>
+                    </Grid.Effect>
+
+                    <Grid Grid.Column="0" Grid.Row="1">
+
+                        <!-- Slide Count Text -->
+                        <TextBlock HorizontalAlignment="Left" x:Name="SlideCountText"
+                            Text="Slide Count: " 
+                            FontSize="16"
+                            VerticalAlignment="Center"
+                            Margin="10 0">
+                        </TextBlock>
+
+                        <!-- Status Text -->
+                        <TextBlock HorizontalAlignment="Right" x:Name="StatusText"
+                            Text="" 
+                            FontSize="16"
+                            VerticalAlignment="Center"
+                            Margin="10 0">
+                        </TextBlock>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

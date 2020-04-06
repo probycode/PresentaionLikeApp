@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E08D34D-3A04-4BBC-AF8D-64F13BD60109}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Presentation_App</RootNamespace>
+    <AssemblyName>Presentation App</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Classes\AudioPlayer.cs" />
+    <Compile Include="Commands\ReadAudioToPresentationCommand.cs" />
+    <Compile Include="Commands\ReadColorCommand.cs" />
+    <Compile Include="Commands\ReadImageToPresentationCommand.cs" />
+    <Compile Include="Controls\ChoiceDisplays\ChoiceDisplayControl.xaml.cs">
+      <DependentUpon>ChoiceDisplayControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ChoiceEditors\ChoiceEditorControl.xaml.cs">
+      <DependentUpon>ChoiceEditorControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CurrentSlideIndicatorControl.xaml.cs">
+      <DependentUpon>CurrentSlideIndicatorControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InspectorControls\LabelInspectorContol.xaml.cs">
+      <DependentUpon>LabelInspectorContol.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SlideButtonControl.xaml.cs">
+      <DependentUpon>SlideButtonControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Factory\FactoryDAL.cs" />
+    <Compile Include="Factory\Factory.cs" />
+    <Compile Include="Factory\FactoryInspectorControls.cs" />
+    <Compile Include="Interfaces\Form Interfaces\IPresentationEditor.cs" />
+    <Compile Include="Interfaces\Form Interfaces\IPresentationViewForm.cs" />
+    <Compile Include="Interfaces\IO Interfaces\IImageReader.cs" />
+    <Compile Include="Interfaces\IO Interfaces\IImageWriter.cs" />
+    <Compile Include="Interfaces\IO Interfaces\IPresentationReader.cs" />
+    <Compile Include="Interfaces\IO Interfaces\IPresentationWriter.cs" />
+    <Compile Include="Interfaces\Presentation Interfaces\IPresentation.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IChoice.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IChoiceDisplay.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IChoiceEditor.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IEndSlide.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IFullImageSlide.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IInformationSlide.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IIntroSlide.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\IQuestionSlide.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\ISlide.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\ISlideAction.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\ISlideDisplay.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\ISlideEditor.cs" />
+    <Compile Include="Interfaces\Slide Interfaces\ISlideFormater.cs" />
+    <Compile Include="IO\ImageReader.cs" />
+    <Compile Include="IO\ImageWriter.cs" />
+    <Compile Include="IO\PresentationJSONReader.cs" />
+    <Compile Include="IO\PresentationJSONWriter.cs" />
+    <Compile Include="Models\Choice\ChoiceStyle.cs" />
+    <Compile Include="Models\Presentation Models\Presentation.cs" />
+    <Compile Include="Models\Presentation Models\PresentationAudio.cs" />
+    <Compile Include="Models\Presentation Models\PresentationStyle.cs" />
+    <Compile Include="Models\Presentation Models\PresentationTemplate.cs" />
+    <Compile Include="Models\Choice\Choice.cs" />
+    <Compile Include="Models\Slide Models\EndSlideModel.cs" />
+    <Compile Include="Models\Slide Models\FullImageSlideModel.cs" />
+    <Compile Include="Models\Slide Models\InformationSlideModel.cs" />
+    <Compile Include="Models\Slide Models\IntroSlideModel.cs" />
+    <Compile Include="Models\Slide Models\QuestionSlideModel.cs" />
+    <Compile Include="Models\Slide Models\SlideBase.cs" />
+    <Compile Include="Models\SlideAction.cs" />
+    <Compile Include="Models\SlideShow.cs" />
+    <Compile Include="Pages\PresnetationEditorPages\PresentationSoundsPage.xaml.cs">
+      <DependentUpon>PresentationSoundsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PresnetationEditorPages\PresentationStylesPage.xaml.cs">
+      <DependentUpon>PresentationStylesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PresnetationEditorPages\PresentationPropertiesPage.xaml.cs">
+      <DependentUpon>PresentationPropertiesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideDisplays\DummyDisplay.xaml.cs">
+      <DependentUpon>DummyDisplay.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideDisplays\EndSlideDisplayPage.xaml.cs">
+      <DependentUpon>EndSlideDisplayPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideDisplays\FullImageSlideDisplayPage.xaml.cs">
+      <DependentUpon>FullImageSlideDisplayPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideDisplays\InformationSlideDisplayPage.xaml.cs">
+      <DependentUpon>InformationSlideDisplayPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideDisplays\IntroSlideDisplayPage.xaml.cs">
+      <DependentUpon>IntroSlideDisplayPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideDisplays\QuestionSlideDisplayPage.xaml.cs">
+      <DependentUpon>QuestionSlideDisplayPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideEditors\DummyEditor.xaml.cs">
+      <DependentUpon>DummyEditor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideEditors\EndSlideEditorPage.xaml.cs">
+      <DependentUpon>EndSlideEditorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideEditors\FullImageSlideEditorPage.xaml.cs">
+      <DependentUpon>FullImageSlideEditorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideEditors\InformationSlideEditorPage.xaml.cs">
+      <DependentUpon>InformationSlideEditorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideEditors\IntroSlideEditorPage.xaml.cs">
+      <DependentUpon>IntroSlideEditorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SlideEditors\QuestionEditorPage.xaml.cs">
+      <DependentUpon>QuestionEditorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\ApplicationMain\PresentationEditorMain.xaml.cs">
+      <DependentUpon>PresentationEditorMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\ApplicationMain\PresentationViewerMain.xaml.cs">
+      <DependentUpon>PresentationViewerMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\CreatePresentationWindow.xaml.cs">
+      <DependentUpon>CreatePresentationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\PresentationSettingsWindow.xaml.cs">
+      <DependentUpon>PresentationSettingsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\SlideShowForm.xaml.cs">
+      <DependentUpon>SlideShowForm.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Controls\ChoiceDisplays\ChoiceDisplayControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ChoiceEditors\ChoiceEditorControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\CurrentSlideIndicatorControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\InspectorControls\LabelInspectorContol.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\SlideButtonControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PresnetationEditorPages\PresentationSoundsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PresnetationEditorPages\PresentationStylesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PresnetationEditorPages\PresentationPropertiesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideDisplays\DummyDisplay.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideDisplays\EndSlideDisplayPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideDisplays\FullImageSlideDisplayPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideDisplays\InformationSlideDisplayPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideDisplays\IntroSlideDisplayPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideDisplays\QuestionSlideDisplayPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideEditors\DummyEditor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideEditors\EndSlideEditorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideEditors\FullImageSlideEditorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideEditors\InformationSlideEditorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\SlideEditors\IntroSlideEditorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\ApplicationMain\PresentationEditorMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\ApplicationMain\PresentationViewerMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\CreatePresentationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\DashboardWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\PresentationEditor.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Statics\Resource\Constents.cs" />
+    <Compile Include="Statics\Resource\Methods.cs" />
+    <Compile Include="Statics\Resource\Properties.cs" />
+    <Compile Include="Windows\DashboardWindow.xaml.cs">
+      <DependentUpon>DashboardWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\PresentationEditor.xaml.cs">
+      <DependentUpon>PresentationEditor.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Pages\SlideEditors\QuestionEditorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\PresentationSettingsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Windows\SlideShowForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Resource Include="Fonts\FontAwesome.otf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Image Icon.png" />
+    <Resource Include="Images\Cover AnimalKingdom.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

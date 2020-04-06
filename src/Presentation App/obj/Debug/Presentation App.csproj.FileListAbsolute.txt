@@ -1,0 +1,1133 @@
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App_Content.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Windows\MainWindow.baml
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\NewPresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App_Content.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\NewPresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Windows\MainWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.1\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\NewPresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App_Content.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\NewPresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Windows\MainWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.2\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\NewPresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App_Content.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\NewPresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Windows\MainWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.4\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\MainWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\MainWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.5\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\MainWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.6\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.7\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.8\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\PresentationBLLLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\PresentationDALLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\PresentationSharedLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\UtilityLibrary.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.9\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\source\repos\Presentation WPF App 0.1.0.10\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.0 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.1 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\Momo\Dropbox\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.2 - Copy\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\avimo\OneDrive\Avraham\Work\Games For Life\Presentation App\Project Source Presentation App 0.2.4\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe.config
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\bin\Debug\Presentation App.exe
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\bin\Debug\Presentation App.pdb
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csprojAssemblyReference.cache
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\App.g.cs
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.cache
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App_MarkupCompile.lref
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\App.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceDisplays\ChoiceDisplayControl.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\ChoiceEditors\ChoiceEditorControl.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\CurrentSlideIndicatorControl.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\InspectorControls\LabelInspectorContol.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Controls\SlideButtonControl.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationSoundsPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationStylesPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\PresnetationEditorPages\PresentationPropertiesPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\DummyDisplay.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\EndSlideDisplayPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\FullImageSlideDisplayPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\InformationSlideDisplayPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\IntroSlideDisplayPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideDisplays\QuestionSlideDisplayPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\DummyEditor.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\EndSlideEditorPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\FullImageSlideEditorPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\InformationSlideEditorPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\IntroSlideEditorPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationEditorMain.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\ApplicationMain\PresentationViewerMain.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\CreatePresentationWindow.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\DashboardWindow.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationEditor.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Pages\SlideEditors\QuestionEditorPage.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\PresentationSettingsWindow.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Windows\SlideShowForm.baml
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App.g.resources
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation_App.Properties.Resources.resources
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.GenerateResource.cache
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CoreCompileInputs.cache
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App.csproj.CopyComplete
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App.exe
+C:\Users\shmoe\Desktop\Interview\Presentation WPF App\Presentation App\obj\Debug\Presentation App.pdb
